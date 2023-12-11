@@ -5,17 +5,11 @@ In the project directory, you can run:
 
 ## Laravel React Crud App
 
-<hr>
-
-**username table 🎨**
 
 ```
 id
 username
 ```
-
-**exercises table 🎈**
-
 ```
 id
 username
